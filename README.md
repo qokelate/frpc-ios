@@ -28,7 +28,7 @@ FrpClientFrpc_main(@"app/config.ini", @"frp");
 # frpc.ini
 [common]
 server_addr = x.x.x.x(server ip)
-server_port = 7000(server poort)
+server_port = 7000(server port)
 
 [ssh]
 type = tcp
