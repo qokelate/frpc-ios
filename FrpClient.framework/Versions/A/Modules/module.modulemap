@@ -1,0 +1,8 @@
+framework module "FrpClient" {
+	header "ref.h"
+    header "FrpClient.objc.h"
+    header "Universe.objc.h"
+    header "FrpClient.h"
+
+    export *
+}
